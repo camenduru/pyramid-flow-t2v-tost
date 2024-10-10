@@ -1,0 +1,12 @@
+{
+    "prompt": "A movie trailer featuring the adventures of the 30 year old space man wearing a red wool knitted motorcycle helmet, blue sky, salt desert, cinematic style, shot on 35mm film, vivid colors",
+    "num_inference_steps": 20,
+    "video_num_inference_steps": 10,
+    "width": 1280,
+    "height": 768,
+    "temp": 16,
+    "guidance_scale": 9.0,
+    "video_guidance_scale": 5.0,
+    "seed": 42,
+    "fps":24
+}
