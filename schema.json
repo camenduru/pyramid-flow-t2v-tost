@@ -66,11 +66,11 @@
     },
     "example": {
       "type": "string",
-      "image1": "https://fakeimg.pl/1280x768/282828/eae0d0/?text=input#.png",
-      "image2": "https://fakeimg.pl/1280x768/282828/eae0d0/?text=input#.png",
-      "image3": "https://fakeimg.pl/1280x768/282828/eae0d0/?text=output#.png",
-      "image4": "https://fakeimg.pl/1280x768/282828/eae0d0/?text=output#.png",
-      "video_aspect_ratio": "100%",
+      "image1": "https://files.catbox.moe/6t10xv.mp4",
+      "image2": "https://files.catbox.moe/q279zp.mp4",
+      "image3": "https://files.catbox.moe/2fpr5t.mp4",
+      "image4": "https://files.catbox.moe/oy5df2.mp4",
+      "video_aspect_ratio": "60%",
       "widget": "example"
     }
   },
